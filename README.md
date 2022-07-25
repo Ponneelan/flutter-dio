@@ -1,6 +1,8 @@
-# theme
+# Flutter Dio
 
 A new Flutter project.
+In this app I learned about Dio package in flutter
+using Dio Package in flutter to make API call easyly then http
 
 ## Getting Started
 
